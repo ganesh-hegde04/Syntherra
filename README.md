@@ -86,13 +86,13 @@ The project demonstrates how AI can be combined with traditional backend systems
 
 ```text
                 React Frontend
-                      │
+                      ↕️
         REST APIs + WebSockets
-                      │
+                      ↕️
               Spring Boot Backend
-                      │
+                      ↕️
       AI Simulation & Business Logic
-                      │
+                      ↕️
             TiDB Cloud Database
 ```
 
