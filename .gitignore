@@ -35,6 +35,7 @@ build/
 
 # Environment
 .env.*
+src/main/resources/certs/*.pem
 
 # Build folders
 target/
